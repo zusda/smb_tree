@@ -18,7 +18,7 @@ password=""
 
 # 3.效果
 
-![image-20220524011849023](\smb_tree.assets\image-20220524011849023.png)
+![image-20220524011849023](https://github.com/zusda/smb_tree/tree/main/smb_tree.assets/image-20220524011849023.png)
 
-![image-20220524011934393](\smb_tree.assets\image-20220524011934393.png)
+![image-20220524011934393](https://github.com/zusda/smb_tree/tree/main/smb_tree.assets/image-20220524011934393.png)
 
